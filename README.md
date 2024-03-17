@@ -45,13 +45,15 @@ React libraries such as:
 * Material UI
 * react-icons
 
-## NPM Installation
+## Local Setup
+
+**NPM Installation**
 
 https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
 ```
 npm install next@latest react@latest react-dom@latest
 ```
-## Run the project
+**Run the project**
 
 Run:
 ```
@@ -59,3 +61,7 @@ npm run dev
 ```
 
 Open ```http://localhost:3000/``` in your browser.
+
+## Try it Out
+
+https://codeconfidence.netlify.app
